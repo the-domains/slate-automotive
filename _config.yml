@@ -1,0 +1,28 @@
+name: Slate Automotive
+favicon: null
+layout_spectrum: 0.19811776792630553
+typography_spectrum: 0.8640806346666068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.32147147320210934
+  lightness: 0.10580350109376013
+  saturation: 0.4674471574835479
+  rhythmicContrast: 0.9316281145438552
+purpose: []
